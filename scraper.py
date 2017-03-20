@@ -84,6 +84,8 @@ def loop_all_tourneys(tourney_id_list, no_param_url = 'https://tankpit.com/tourn
         master_info_df = pd.concat([master_info_df, info_df], axis = 0)
     # rename cols
     master_tanks_df.rename(columns = {0: 'number', 1: 'color', 2: 'rank'}, inplace = True)
+    if 3 in master_tanks_df.columns:
+        master_tanks_df.drop(3, axis = 1, inplace = True)
     master_tanks_df.reset_index(drop = True, inplace = True)
     # tourney info
     master_info_df.rename(columns = {0: 'tourney_id', 1: 'map', 2: 'date', 3: 'time'}, inplace = True)
@@ -91,9 +93,12 @@ def loop_all_tourneys(tourney_id_list, no_param_url = 'https://tankpit.com/tourn
     return master_tanks_df, master_info_df
 
 if __name__ == "__main__":
-    master_tanks_df, master_info_df = loop_all_tourneys(tourney_id_list = range(795))
+    # what's the current max tourney_id?
+    max_tourney_id = 795
+    # run the loop!
+    master_tanks_df, master_info_df = loop_all_tourneys(tourney_id_list = range(max_tourney_id))
     master_info_df = transform_tourney_info_df(master_info_df)
     # removing awards for now
     master_tanks_df = master_tanks_df.drop('awards_raw', axis = 1)
-    master_tanks_df.to_csv('./data/tourney_tanks.csv', sep = ',', header = True, index = True, index_label = 'id', quotechar = '"')
-    master_info_df.to_csv('./data/tourney_info.csv', sep = ',', header = True, index = True, index_label = 'id', quotechar = '"')
+    master_tanks_df.to_csv('./data/tourney_tanks.csv', sep = ',', header = True, index = False, quotechar = '"')
+    master_info_df.to_csv('./data/tourney_info.csv', sep = ',', header = True, index = False, quotechar = '"')
