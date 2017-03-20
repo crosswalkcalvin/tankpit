@@ -1,6 +1,8 @@
-## Tournament Analysis
+*Last updated: March 20, 2017*
 
-*March 20, 2017:* This site goes live! I am open-sourcing the first [TankPit](https://www.tankpit.com/) web-scraping script as a first step in an attempt to create a user-maintained API. 
+This is the first ever open-sourced [TankPit](https://www.tankpit.com/) web-scraping script! Though rudimentary, it is the first step of many, in an attempt to create a user-maintained API. You can [check out the script here](https://github.com/crosswalkcalvin/tourney-analysis/blob/master/scraper.py), or [download the data here]().
+
+In an attempt to make immediate use of the data, I've performed an analysis of all TankPit tournaments. See findings below!
 
 ### Findings
 
@@ -21,8 +23,6 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Contact
 
