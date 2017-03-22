@@ -2,7 +2,7 @@
 
 This is the first ever open-sourced [TankPit](https://www.tankpit.com/) web-scraping script! Though rudimentary, it is the first step of many, in an attempt to create a user-maintained API. You can [check out the script here](https://github.com/crosswalkcalvin/tourney-analysis/blob/master/scraper.py), or [download the data here](https://github.com/crosswalkcalvin/tourney-analysis/tree/master/data).
 
-In an attempt to make immediate use of the data, I've performed an analysis of all TankPit tournaments. Most of the graphs below are descriptives (i.e. breakdown of tournaments by duration, by map, etc.). See findings below and feel free to download the data to analyze it yourselves!
+To make immediate use of the data, I've performed an analysis of all TankPit tournaments. Most of the graphs below are descriptives (i.e. breakdown of tournaments by duration, by map, etc.). See findings below and feel free to download the data to analyze it yourselves!
 
 #### Breakdown of tournaments by duration
 
