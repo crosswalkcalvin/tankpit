@@ -9,22 +9,10 @@ In an attempt to make immediate use of the data, I've performed an analysis of a
 Yada yada.
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+![Cups by color](https://cloud.githubusercontent.com/assets/26494727/24176343/a3225658-0e58-11e7-858c-0e0d190ce00e.png=100x)
 ```
 
-![alt text](https://cloud.githubusercontent.com/assets/26494727/24176343/a3225658-0e58-11e7-858c-0e0d190ce00e.png)
+
 
 ### Contact
 
