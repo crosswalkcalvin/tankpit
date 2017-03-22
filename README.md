@@ -4,15 +4,35 @@ This is the first ever open-sourced [TankPit](https://www.tankpit.com/) web-scra
 
 In an attempt to make immediate use of the data, I've performed an analysis of all TankPit tournaments. See findings below!
 
-### Findings
+### Descriptives
 
-Yada yada.
+#### Cups by color:
 
-```markdown
 ![Cups by color](https://cloud.githubusercontent.com/assets/26494727/24176343/a3225658-0e58-11e7-858c-0e0d190ce00e.png=100x)
-```
 
+#### D:
 
+![]()
+
+#### D:
+
+![]()
+
+#### D:
+
+![]()
+
+#### D:
+
+![]()
+
+#### D:
+
+![]()
+
+#### D:
+
+![]()
 
 ### Contact
 
