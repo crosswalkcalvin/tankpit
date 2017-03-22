@@ -24,7 +24,7 @@ To make immediate use of the data, I've performed an analysis of all TankPit tou
 
 ![Breakdown of tournaments by hour of day (Eastern time)](https://cloud.githubusercontent.com/assets/26494727/24176496/87504d26-0e59-11e7-8aff-e3fcf2eebcba.png)
 
-#### Cups won by rank
+#### Cups won by rank (1 hours only)
 
 ![Cups won by rank](https://cloud.githubusercontent.com/assets/26494727/24176495/874fbe2e-0e59-11e7-9293-4e0851e29b4d.png)
 
