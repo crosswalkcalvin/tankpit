@@ -18,7 +18,7 @@ To make immediate use of the data, I've performed an analysis of all TankPit tou
 
 #### Breakdown of tournaments by day of week
 
-![Breakdown of tournaments by day of week](https://cloud.githubusercontent.com/assets/26494727/24176498/8752a936-0e59-11e7-91e0-538c6891f5d3.png)
+![Breakdown of tournaments by day of week](https://cloud.githubusercontent.com/assets/26494727/24186678/9121abc8-0e96-11e7-9a72-e39376a0e5e7.png)
 
 #### Breakdown of tournaments by hour of day (Eastern time)
 
