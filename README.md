@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 ```
 
-[alt text](https://cloud.githubusercontent.com/assets/26494727/24176343/a3225658-0e58-11e7-858c-0e0d190ce00e.png)
+![alt text](https://cloud.githubusercontent.com/assets/26494727/24176343/a3225658-0e58-11e7-858c-0e0d190ce00e.png)
 
 ### Contact
 
