@@ -4,35 +4,35 @@ This is the first ever open-sourced [TankPit](https://www.tankpit.com/) web-scra
 
 In an attempt to make immediate use of the data, I've performed an analysis of all TankPit tournaments. See findings below!
 
-### Breakdown of tournaments by duration:
+#### Breakdown of tournaments by duration
 
 ![](https://cloud.githubusercontent.com/assets/26494727/24176481/76e5d708-0e59-11e7-932c-202cb262fd60.png)
 
-### Breakdown of tournaments by map:
+#### Breakdown of tournaments by map
 
 ![](https://cloud.githubusercontent.com/assets/26494727/24176499/8753c1f4-0e59-11e7-89c1-e674fc358275.png)
 
-### Breakdown of tournaments by month:
+#### Breakdown of tournaments by month
 
 ![](https://cloud.githubusercontent.com/assets/26494727/24176500/8754680c-0e59-11e7-83b5-89ddea55c376.png)
 
-### Breakdown of tournaments by day of week:
+#### Breakdown of tournaments by day of week
 
 ![](https://cloud.githubusercontent.com/assets/26494727/24176498/8752a936-0e59-11e7-91e0-538c6891f5d3.png)
 
-### Breakdown of tournaments by hour of day (Eastern time):
+#### Breakdown of tournaments by hour of day (Eastern time)
 
 ![](https://cloud.githubusercontent.com/assets/26494727/24176496/87504d26-0e59-11e7-8aff-e3fcf2eebcba.png)
 
-### Cups won by rank:
+#### Cups won by rank
 
 ![](https://cloud.githubusercontent.com/assets/26494727/24176495/874fbe2e-0e59-11e7-9293-4e0851e29b4d.png)
 
-### Cups won by color:
+#### Cups won by color
 
 ![Cups by color](https://cloud.githubusercontent.com/assets/26494727/24176343/a3225658-0e58-11e7-858c-0e0d190ce00e.png)
 
-### Average # of lieutenants or higher by map:
+#### Average # of lieutenants or higher by map
 
 ![](https://cloud.githubusercontent.com/assets/26494727/24176497/8751220a-0e59-11e7-9112-ec3c293af03f.png)
 
